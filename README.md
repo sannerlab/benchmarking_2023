@@ -1,3 +1,5 @@
+![stripSet](https://github.com/sannerlab/benchmarking_2023/blob/main/Fnat2.png)
+
 This folder contains python scripts and required data to perform calculations for the paper "Predicting protein-peptide interactions: benchmarking Deep Learning techniques and a comparison with focused docking ".
 Please cite: 
 
