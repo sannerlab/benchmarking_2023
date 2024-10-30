@@ -2,6 +2,7 @@
 
 This folder contains python scripts and required data to perform calculations for the paper "Predicting protein-peptide interactions: benchmarking Deep Learning techniques and a comparison with focused docking ".
 Please cite: 
+Shanker, Sudhanshu, and Michel F. Sanner. "Predicting protein–peptide interactions: benchmarking deep learning techniques and a comparison with focused docking." Journal of Chemical Information and Modeling 63.10 (2023): 3158-3170. DOI: https://doi.org/10.1021/acs.jcim.3c00602
 
 
 The function "estimate_energies_for_pdb" from OpenMM_functions.py can be used perform minimization and various energy calculations for a protein-peptide complex.
